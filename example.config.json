@@ -1,0 +1,12 @@
+{
+    "env": "",
+    "DiscordBotInitialTextChannel": "",
+    "DiscordBotClientID": "",
+    "DiscordBotClientSecret": "",
+    "DiscordBotToken": "",
+    "GamerTextChannel": "",
+    "GameDealsTextChannel": "",
+    "MemesTextChannel": "",
+    "TestTextChannel": "",
+    "prefix": "bobo "
+}
